@@ -1,0 +1,13 @@
+.st {
+    background-color: aquamarine;
+    position: sticky;
+    top: 0;
+}
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    position: fixed;
+    right: 10px;
+    bottom: 0;
+}
