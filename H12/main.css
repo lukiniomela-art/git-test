@@ -1,0 +1,92 @@
+body {
+    background-color: rgb(218, 218, 218);
+    align-items: center;
+    text-align: center;
+}
+.logo {
+    color: blue;
+}
+
+.sec2-1 form{
+    display: flex;
+    max-width: 100%;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.sec1 {
+    border-bottom: 0.5px solid;
+    padding: 5px 10px 5px 10px;
+    line-height: 10px;
+    
+    
+}
+.sec1 h2 {
+    font-size: 32px;
+}
+
+.container {
+    color: black;
+    background-color: azure;
+    width: 440px;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+.sec2-1 {
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+ .sec2-2  {
+    text-align: left;
+    padding-left: 35px;
+    padding-bottom: 10px;
+ }
+ .sec2-3 {
+    text-align: left;
+    padding-left: 31px;
+
+ }
+ .nav {
+    display: flex;
+    justify-content: space-between;
+    
+    padding-right: 30px;
+ }
+ 
+ .sec2-4 {
+    text-align: left;
+    padding-left: 30px;
+    padding-top: 10px;
+ }
+
+ .sec2-5 {
+    text-align: left;
+    padding: 10px;
+ }
+
+ .sec32 button{
+    border: none;
+    padding: 10px;
+    background-color: rgb(8, 205, 1);
+    border-radius: 10px;
+    width: 100px;
+    
+ }
+  .sec32 {
+    padding-bottom: 5px;
+  }
+
+  .sec33 button {
+    border: none;
+    padding: 10px;
+    background-color: azure;
+    color: rgb(1, 198, 132);
+  }
+  .sec33 {
+    padding-bottom: 20px;
+  }
